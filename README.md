@@ -1,5 +1,5 @@
 # resonancia-magnetica-racket
-Este fue un proyecto de programación funcional en el lenguaje Racket para presentarlo cómo una evaluación parcial en la _Universidad Tecnológica de Pereira_.
+Este fue un proyecto de programación funcional en el lenguaje Racket para presentarlo cómo una evaluación parcial en la _Universidad Tecnológica de Pereira_ para la materia de _Programación 1_.
 
 ## Contexto de Los Requisitos del Proyecto
 > Debe respetar el principio básico de la programación funcional que es el de la inmutabilidad esto es que “el valor de la memoria no
@@ -55,6 +55,12 @@ Plano en Z(Fotografía) Líneas sospechosas x plano(foto) Puntos sospechosos por
 > Los valores de todos los elementos de la matriz se supondrán ya cargados en memoria (no es necesario leerlos).
 En caso de que existan líneas sospechosas en la imagen, el programa mostrará en qué plano hay más líneas
 sospechosas (servirá para saber en qué lugar es mejor hacer una biopsia).
-
-> ## Herramientas Usadas en el Desarrollo:
+## Herramientas Usadas en el Desarrollo y Visualización del Proyecto:
 Se utilizó al 100% el lenguaje de programación Racket, con la intención de qué el programa siguiera lo mejor posible las prácticas de programación funcional. 
+
+Añado *link* en replit en dónde está alojado los recursos de la versión actual para su **rápido testeo**: [replit.com](https://replit.com/@alondono4/Muestra-de-Github)
+
+La ejecución de los archivos tiene que hacerse de esta manera ya que son 2:
+> Se ingresa a la shell -> Se escribe "racket _nombre_del_archiuo_.rkt" -> Se da enter para ejecutar:
+
+![Ejemplo de cómo ejecutar](https://media.discordapp.net/attachments/404533914816872449/1241238898999562350/image.png?ex=6649794e&is=664827ce&hm=e28abdad03fcc4a051511b13e3d7a9868124235a4d2aa4105d03fb5ba3ac1fbf&=&format=webp&quality=lossless)
