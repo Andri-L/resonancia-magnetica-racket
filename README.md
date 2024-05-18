@@ -2,7 +2,7 @@
 Este fue un proyecto de programación funcional en el lenguaje Racket para presentarlo cómo una evaluación parcial en la _Universidad Tecnológica de Pereira_ para la materia de _Programación 1_.
 
 ## Contexto de Los Requisitos del Proyecto
-_Información extraida del tablón de la Universidad Tecnologica de Pereira_  
+_Información extraida del tablón de Programación 1 de la Universidad Tecnologica de Pereira_  
 _Link público no disponible_  
 _Fecha a la qué se tomó esta información: 17/05/2024_  
 
